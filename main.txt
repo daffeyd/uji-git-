@@ -1,0 +1,2 @@
+Ini adalah program utama 
+Function penjumlahan 1 + 1 
