@@ -1,2 +1,4 @@
 Ini adalah program utama 
 Function penjumlahan 1 + 1 
+
+Function pengurangan 1 - 1
